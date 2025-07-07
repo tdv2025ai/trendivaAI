@@ -1,4 +1,3 @@
-
 export default function Home() {
-  return <div>Welcome to TrenDiva.ai</div>;
+  return <h1>Welcome to TrenDiva.ai</h1>;
 }
